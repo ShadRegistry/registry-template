@@ -1,0 +1,6 @@
+{
+  "$schema": "https://shadregistry.com/schema/config.json",
+  "registry": "{{REGISTRY_NAME}}",
+  "sourceDir": "{{SOURCE_DIR}}",
+  "url": "{{API_URL}}"
+}
