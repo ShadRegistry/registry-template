@@ -1,6 +1,6 @@
 # registry-template
 
-The default project template used by [`shadr init`](https://github.com/ShadRegistry/registry/tree/main/cli).
+The default project template used by [`shadr init`](https://github.com/ShadRegistry/cli).
 
 ## Usage
 
